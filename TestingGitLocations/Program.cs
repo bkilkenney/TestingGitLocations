@@ -6,13 +6,30 @@ using System.Threading.Tasks;
 
 namespace TestingGitLocations
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
 
-            //Rando comment
-            //Another random comment
+            Person me = new Person();
+            me.Age = 34;
+            me.Name = "Brad";
+
+            me.PrintPersonDeets();
+
+            Print(3829);
+
+            DoubleTheInt(232);
+
+        }
+        static void Print(int x)
+        {
+            Console.WriteLine(x);
+        }
+
+        static void DoubleTheInt(int y)
+        {
+            Console.WriteLine(y * 2);
         }
     }
 }

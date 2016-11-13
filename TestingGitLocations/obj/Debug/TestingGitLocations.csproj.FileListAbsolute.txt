@@ -1,1 +1,6 @@
 C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\TestingGitLocations\TestingGitLocations\bin\Debug\TestingGitLocations.exe.config
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\TestingGitLocations\TestingGitLocations\bin\Debug\TestingGitLocations.exe
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\TestingGitLocations\TestingGitLocations\bin\Debug\TestingGitLocations.pdb
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\TestingGitLocations\TestingGitLocations\obj\Debug\TestingGitLocations.csprojResolveAssemblyReference.cache
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\TestingGitLocations\TestingGitLocations\obj\Debug\TestingGitLocations.exe
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\TestingGitLocations\TestingGitLocations\obj\Debug\TestingGitLocations.pdb
